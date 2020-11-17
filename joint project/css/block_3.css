@@ -1,0 +1,44 @@
+.block_3{
+	height: 1279px;
+	width: 100%;
+	margin-top: 150px;
+}
+.first_block_img{
+	width: 550px;
+	height: 363px;
+	background-image: url(img/first_block_img.png);
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+}
+.second_block_img{
+	width: 550px;
+	height: 363px;
+	background-image: url(img/second_block_img.png);
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+}
+.third_block_img{
+	width: 550px;
+	height: 363px;
+	background-image: url(img/third_block_img.png);
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+}
+.lessons{
+	height: 100%;
+	width: calc(100% - 550px);
+}
+.info_advantage1{
+	font-weight: 600;
+	font-size: 24px;
+	text-align: center;
+}
+.info_advantage2{
+	font-weight: 400;
+	font-size: 16px;
+	text-align: center;
+}
+.block{
+	margin-top: 36px;
+	width: 100%;
+}
